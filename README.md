@@ -144,3 +144,4 @@ A*, Dijkstra, BFS, DFS visualization
 ![Profile Views](https://komarev.com/ghpvc/?username=parsa-faraji&color=blueviolet&style=flat-square)
 
 </div>
+
