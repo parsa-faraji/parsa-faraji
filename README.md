@@ -2,7 +2,7 @@
 
 # Hey, I'm Parsa
 
-**EECS @ UC Berkeley** | **ML Researcher** | **Building Things That Matter**
+**EECS @ UC Berkeley** | **Software & ML Engineer** | **Building Things That Matter**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://parsa-faraji.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parsa-faraji-alamouti-942338272)
