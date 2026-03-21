@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hey, I'm Parsa 👋
+# Hey, I'm Parsa
 
 **EECS @ UC Berkeley** | **ML Researcher** | **Building Things That Matter**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://parsa-faraji.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parsa-faraji-alamouti-942338272)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parsafaraji@berkeley.edu)
 
 </div>
 
@@ -18,16 +18,20 @@
 const parsa = {
     education: "UC Berkeley - Electrical Engineering & Computer Sciences",
     previousEducation: "Berkeley City College - 4.0 GPA, Salutatorian",
-    currentRole: "ML Researcher @ TokenWorks LLC",
+    currentRoles: [
+        "Co-Founder & Technical Lead @ MainStreetReviews",
+        "ML Researcher @ TokenWorks LLC",
+        "Front End Team Lead @ Open Project, UC Berkeley",
+    ],
     interests: ["Machine Learning", "Full-Stack Development", "Data Science"],
     currentlyLearning: ["Knowledge Graphs", "OCR Systems", "Computer Vision"],
-    funFact: "I gave a commencement speech as Salutatorian 🎓"
+    funFact: "I gave a commencement speech as Salutatorian"
 };
 ```
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -43,51 +47,38 @@ const parsa = {
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**ML / Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-**[DevMetrics](https://github.com/parsa-faraji/devmetrics)** 📊
+**[Huddle](https://github.com/parsa-faraji/Huddle)**
 <br>
-GitHub analytics dashboard - analyze any profile instantly
+Campus study spot discovery, rating, and group matching app
 <br>
-`JavaScript` `GitHub API` `Analytics`
+`TypeScript` `React` `Full-Stack`
 
 </td>
 <td width="50%">
 
-**[ExpenseFlow](https://github.com/parsa-faraji/expenseflow)** 💰
+**[TransferAble](https://github.com/parsa-faraji/TransferAble)**
 <br>
-Expense tracker & bill splitter for groups
-<br>
-`JavaScript` `LocalStorage` `Finance`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[LinkHub](https://github.com/parsa-faraji/linkhub)** 🔗
-<br>
-Beautiful link-in-bio page with 6 themes
-<br>
-`JavaScript` `CSS3` `Themes`
-
-</td>
-<td width="50%">
-
-**[TransferAble](https://github.com/parsa-faraji/TransferAble)** 🎓
-<br>
-Student transfer planning platform
+Student transfer planning platform with UC/CSU mapping
 <br>
 `TypeScript` `React` `Education`
 
@@ -96,28 +87,50 @@ Student transfer planning platform
 <tr>
 <td width="50%">
 
-**[Neural Network Playground](https://github.com/parsa-faraji/neural-network-playground)** 🧠
+**[deadline-aggregator](https://github.com/parsa-faraji/deadline-aggregator)**
 <br>
-Interactive ML visualization tool
+Syncs Canvas, Google Calendar, Gmail, Gradescope & Ed
 <br>
-`JavaScript` `Canvas` `ML`
+`TypeScript` `APIs` `Productivity`
 
 </td>
 <td width="50%">
 
-**[Pathfinding Visualizer](https://github.com/parsa-faraji/pathfinding-visualizer)** 🗺️
+**[applyai](https://github.com/parsa-faraji/applyai)**
 <br>
-A*, Dijkstra, BFS, DFS visualization
+AI-powered job application generator -- resumes & cover letters
 <br>
-`JavaScript` `Algorithms` `Canvas`
+`JavaScript` `AI` `Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[DevMetrics](https://github.com/parsa-faraji/devmetrics)**
+<br>
+GitHub analytics dashboard -- instant profile insights
+<br>
+`JavaScript` `GitHub API` `Analytics`
+
+</td>
+<td width="50%">
+
+**[Neural Network Playground](https://github.com/parsa-faraji/neural-network-playground)**
+<br>
+Interactive ML visualization -- watch decision boundaries form
+<br>
+`JavaScript` `Canvas` `ML`
 
 </td>
 </tr>
 </table>
 
+> See more on my [portfolio site](https://parsa-faraji.github.io/portfolio) or browse [all repos](https://github.com/parsa-faraji?tab=repositories).
+
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -126,14 +139,20 @@ A*, Dijkstra, BFS, DFS visualization
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parsa-faraji&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165">
+
+</div>
+
 ---
 
-### 🎯 Currently
+### Currently
 
-- 🔬 Researching knowledge graphs & OCR at **TokenWorks LLC**
-- 🏫 Leading frontend teams at **Open Project @ UC Berkeley**
-- 📚 Teaching with **Codify Berkeley**
-- 🚀 Building side projects to learn and grow
+- Co-founding **MainStreetReviews** -- AI-powered customer feedback for local businesses
+- Researching knowledge graphs & OCR at **TokenWorks LLC**
+- Leading frontend teams at **Open Project @ UC Berkeley**
+- Teaching with **Codify Berkeley**
 
 ---
 
@@ -144,4 +163,3 @@ A*, Dijkstra, BFS, DFS visualization
 ![Profile Views](https://komarev.com/ghpvc/?username=parsa-faraji&color=blueviolet&style=flat-square)
 
 </div>
-
