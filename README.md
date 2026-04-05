@@ -1,12 +1,23 @@
 <div align="center">
 
-# Hey, I'm Parsa
+# Parsa Faraji
 
-**EECS @ UC Berkeley** | **Software & ML Engineer** | **Building Things That Matter**
+**EECS @ UC Berkeley** | **Software Engineer & ML Researcher** | **Building intelligent solutions**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://parsa-faraji.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parsa-faraji-alamouti-942338272)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parsafaraji@berkeley.edu)
+<p>
+  <a href="https://parsa-faraji.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://linkedin.com/in/parsa-faraji-alamouti-942338272">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:parsafaraji@berkeley.edu">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/parsa-faraji">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 </div>
 
@@ -67,19 +78,15 @@ const parsa = {
 <tr>
 <td width="50%">
 
-**[Huddle](https://github.com/parsa-faraji/Huddle)**
-<br>
+#### [Huddle](https://github.com/parsa-faraji/Huddle)
 Campus study spot discovery, rating, and group matching app
-<br>
 `TypeScript` `React` `Full-Stack`
 
 </td>
 <td width="50%">
 
-**[TransferAble](https://github.com/parsa-faraji/TransferAble)**
-<br>
+#### [TransferAble](https://github.com/parsa-faraji/TransferAble)
 Student transfer planning platform with UC/CSU mapping
-<br>
 `TypeScript` `React` `Education`
 
 </td>
@@ -87,19 +94,15 @@ Student transfer planning platform with UC/CSU mapping
 <tr>
 <td width="50%">
 
-**[deadline-aggregator](https://github.com/parsa-faraji/deadline-aggregator)**
-<br>
+#### [deadline-aggregator](https://github.com/parsa-faraji/deadline-aggregator)
 Syncs Canvas, Google Calendar, Gmail, Gradescope & Ed
-<br>
 `TypeScript` `APIs` `Productivity`
 
 </td>
 <td width="50%">
 
-**[applyai](https://github.com/parsa-faraji/applyai)**
-<br>
+#### [applyai](https://github.com/parsa-faraji/applyai)
 AI-powered job application generator -- resumes & cover letters
-<br>
 `JavaScript` `AI` `Automation`
 
 </td>
@@ -107,26 +110,26 @@ AI-powered job application generator -- resumes & cover letters
 <tr>
 <td width="50%">
 
-**[DevMetrics](https://github.com/parsa-faraji/devmetrics)**
-<br>
+#### [DevMetrics](https://github.com/parsa-faraji/devmetrics)
 GitHub analytics dashboard -- instant profile insights
-<br>
 `JavaScript` `GitHub API` `Analytics`
 
 </td>
 <td width="50%">
 
-**[Neural Network Playground](https://github.com/parsa-faraji/neural-network-playground)**
-<br>
+#### [Neural Network Playground](https://github.com/parsa-faraji/neural-network-playground)
 Interactive ML visualization -- watch decision boundaries form
-<br>
 `JavaScript` `Canvas` `ML`
 
 </td>
 </tr>
 </table>
 
-> See more on my [portfolio site](https://parsa-faraji.github.io/portfolio) or browse [all repos](https://github.com/parsa-faraji?tab=repositories).
+<div align="center">
+
+[📚 View All Projects](https://github.com/parsa-faraji?tab=repositories) • [🌐 Portfolio](https://parsa-faraji.github.io/portfolio)
+
+</div>
 
 ---
 
@@ -134,31 +137,43 @@ Interactive ML visualization -- watch decision boundaries form
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=parsa-faraji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsa-faraji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165">
+<a href="https://github.com/parsa-faraji">
+  <img src="https://github-readme-stats.vercel.app/api?username=parsa-faraji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=ffffff" alt="GitHub Stats" height="170">
+</a>
+<a href="https://github.com/parsa-faraji">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsa-faraji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=ffffff" alt="Top Languages" height="170">
+</a>
 
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parsa-faraji&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165">
-
+  <a href="https://github.com/parsa-faraji">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=parsa-faraji&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF" alt="GitHub Streak" height="170">
+  </a>
 </div>
 
 ---
 
-### Currently
+### Currently Working On
 
-- Co-founding **MainStreetReviews** -- AI-powered customer feedback for local businesses
-- Researching knowledge graphs & OCR at **TokenWorks LLC**
-- Leading frontend teams at **Open Project @ UC Berkeley**
-- Teaching with **Codify Berkeley**
+- Co-founding **MainStreetReviews** — AI-powered customer feedback platform for local businesses
+- Researching **knowledge graphs & OCR** at TokenWorks LLC
+- Leading frontend engineering at **Open Project @ UC Berkeley**
+- Mentoring developers with **Codify Berkeley**
 
 ---
 
 <div align="center">
 
-**Let's connect and build something awesome!**
+### Let's Connect
+
+Interested in collaboration, mentorship, or just want to chat about tech?
+
+<a href="https://linkedin.com/in/parsa-faraji-alamouti-942338272">LinkedIn</a> •
+<a href="mailto:parsafaraji@berkeley.edu">Email</a> •
+<a href="https://parsa-faraji.github.io/portfolio">Portfolio</a>
+
+<br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=parsa-faraji&color=blueviolet&style=flat-square)
 
