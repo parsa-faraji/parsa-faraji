@@ -70,11 +70,11 @@ const parsa = {
 <tr>
 <td width="50%">
 
-**[applyai](https://github.com/parsa-faraji/applyai)**
+**[arena](https://github.com/parsa-faraji/arena)**
 <br>
-AI-powered prediction market trading using Claude API + Polymarket
+Jest for prompts: LLM evals, judges, optimization, and CI regression gates
 <br>
-`JavaScript` `AI` `Full-Stack`
+`Python` `LLM Evals` `CI`
 
 </td>
 <td width="50%">
@@ -90,11 +90,11 @@ AI writing assistant Chrome extension — published on Chrome Web Store
 <tr>
 <td width="50%">
 
-**[TransferAble](https://github.com/parsa-faraji/TransferAble)**
+**[coordination-agent](https://github.com/parsa-faraji/coordination-agent)**
 <br>
-Student transfer planning platform with UC/CSU course mapping
+Single-user AI inbox-to-task agent with traceable task provenance
 <br>
-`TypeScript` `Next.js` `Full-Stack`
+`TypeScript` `Next.js` `Automation`
 
 </td>
 <td width="50%">
@@ -119,11 +119,11 @@ Syncs Canvas, Google Calendar, Gmail, Gradescope & Ed Discussion
 </td>
 <td width="50%">
 
-**[neural-network-playground](https://github.com/parsa-faraji/neural-network-playground)**
+**[ElamiteDatasetLab](https://github.com/parsa-faraji/ElamiteDatasetLab)**
 <br>
-Interactive ML visualization — watch decision boundaries form
+Reproducible Word2Vec and network-analysis lab for ancient Elamite texts
 <br>
-`JavaScript` `Canvas` `ML`
+`Python` `NLP` `Digital Humanities`
 
 </td>
 </tr>
@@ -137,6 +137,8 @@ Interactive ML visualization — watch decision boundaries form
 
 - Building LLM agent systems at **1Sphere AI** as Founding Software Engineer
 - Leading front-end education at **Berkeley Open Project @ UC Berkeley**
+- Polishing a smaller set of useful open-source projects instead of maintaining noisy demo repos
+- Following a daily loop: one meaningful OSS contribution, one repo polish commit, one visible product increment
 
 ---
 
