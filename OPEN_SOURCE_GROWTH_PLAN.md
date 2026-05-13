@@ -55,6 +55,10 @@ Every week:
 - Post one build note with a demo, screenshot, or changelog.
 - Reply to every issue/comment quickly and concretely.
 
+## Contribution Log
+
+- 2026-05-13: Opened [open-webui/open-webui#24644](https://github.com/open-webui/open-webui/pull/24644), a scoped fix for widescreen chat bubble resizing with large fenced YAML/code blocks. This targets `dev` and closes `open-webui/open-webui#5975`.
+
 ## 30-Day Targets
 
 - Followers: 9 -> 20
