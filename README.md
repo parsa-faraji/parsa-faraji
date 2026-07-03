@@ -2,9 +2,9 @@
 
 # Parsa Faraji Alamouti
 
-**AI systems, full-stack products, and developer tools**
+**AI systems, full-stack projects, and developer tools**
 
-EECS @ UC Berkeley | Founding Software Engineer @ 1Sphere AI
+EECS @ UC Berkeley | building for the sake of it..
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://parsa-faraji.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parsa-faraji-alamouti-942338272)
